@@ -2,7 +2,7 @@ import requests
 
 
 def fetch_photo(query):
-    api_key = '5c2r7FzvaIDgu8UZKjoRm8TdL6tq7c2VDBVBwa5yFTk3k2oRMYMqWgAt'
+    api_key =
 
     url = 'https://api.pexels.com/v1/search'
     headers = {
