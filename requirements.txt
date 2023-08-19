@@ -1,0 +1,15 @@
+streamlit
+pypdf
+langchain
+torch
+accelerate
+bitsandbytes
+transformers
+sentence_transformers
+faiss-cpu
+ctransformers
+gunicorn
+requests
+docx
+document
+python-docx
